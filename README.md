@@ -45,9 +45,10 @@ bmi = weight / (height * height)
   <summary>
     <strong>هنتات 👀</strong>
   </summary>
-  <pre>
-  <code>
 
+<div dir="ltr>
+<pre>
+  <code>
 func bmiStatus() -> String{
     guard let bmi = bmi else {return ""}
     switch bmi {
@@ -57,9 +58,10 @@ func bmiStatus() -> String{
     default: return ""
     }
 }
-
   </code>
 </pre>
+</div>
+
 </details>
 
 
