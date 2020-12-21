@@ -10,10 +10,11 @@
 4. قم بإضافة زر، بحيث إذا تم الضغط على الزر يتم حساب الـ bmi 
 
 
-<div dir="ltr">
-
-``` 
 معادلة ال bmi 
+
+<div dir="ltr">
+  
+``` 
 bmi = weight / (height * height) 
 ```
 
