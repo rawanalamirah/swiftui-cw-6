@@ -49,8 +49,8 @@ bmi = weight / (height * height)
 <div dir="ltr">
   
 ```Swift
-func bmiStatus() -> String{
-    guard let bmi = bmi else {return ""}
+// This function might help you take a double value for BMI and convert it to a status using Switch statement.
+func bmiStatus(bmi: Double) -> String{
     switch bmi {
     case ..<20: return "thin"
     case 20..<25: return "normal"
