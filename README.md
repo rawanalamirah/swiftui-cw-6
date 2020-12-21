@@ -47,9 +47,8 @@ bmi = weight / (height * height)
   </summary>
 
 <div dir="ltr>
-          
-<pre>
-  <code>
+
+```Swift
 func bmiStatus() -> String{
     guard let bmi = bmi else {return ""}
     switch bmi {
@@ -59,8 +58,8 @@ func bmiStatus() -> String{
     default: return ""
     }
 }
-  </code>
-</pre>
+```
+
 </div>
 
 </details>
