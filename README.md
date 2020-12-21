@@ -8,10 +8,18 @@
 2. قم بإنشاء مشروعاً جديداً واحفطه في هذا المجلد.
 3. أضف 2xTextField واحد ل weight و واحد ل height
 4. قم بإضافة زر، بحيث إذا تم الضغط على الزر يتم حساب الـ bmi 
+
+
+<div dir="ltr">
+
 ``` 
 معادلة ال bmi 
 bmi = weight / (height * height) 
 ```
+
+</div>
+
+
 5. استعمل الدوال functions لحساب ال bmi وحالة الجسد (متين / طبيعي / نحيف ) 
 
 <img src="https://user-images.githubusercontent.com/8784343/102730718-b0ec9b00-4346-11eb-9ee0-fbea7673766a.gif" alt="bmi calcaultor gif" />
@@ -29,10 +37,6 @@ bmi = weight / (height * height)
 </details>
 
 
-
-<div dir="ltr">
-  
-</div>
 
 
 </div>
