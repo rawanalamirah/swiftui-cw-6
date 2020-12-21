@@ -47,6 +47,7 @@ bmi = weight / (height * height)
   </summary>
 
 <div dir="ltr>
+          
 <pre>
   <code>
 func bmiStatus() -> String{
