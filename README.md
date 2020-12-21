@@ -40,4 +40,28 @@ bmi = weight / (height * height)
 
 
 
+
+<details>
+  <summary>
+    <strong>هنتات 👀</strong>
+  </summary>
+  <pre>
+  <code>
+
+func bmiStatus() -> String{
+    guard let bmi = bmi else {return ""}
+    switch bmi {
+    case ..<20: return "thin"
+    case 20..<25: return "normal"
+    case 25...: return "fat"
+    default: return ""
+    }
+}
+
+  </code>
+</pre>
+</details>
+
+
+
 </div>
