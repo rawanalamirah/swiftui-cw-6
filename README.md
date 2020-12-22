@@ -1,7 +1,7 @@
 
 <div dir="rtl">
 
-#  تمرين - 5
+#  تمرين - 6
 ## BMI Calculator
 ### خطوات 
 1. قم بعمل Fork لهذا المجلد و clone وافتح المجلد من خلال Github Desktop 
